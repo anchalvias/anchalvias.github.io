@@ -1,0 +1,24 @@
+[25-Jan-2022 02:03:04] NOTICE: fpm is running, pid 99702
+[25-Jan-2022 02:03:04] NOTICE: ready to handle connections
+[25-Jan-2022 02:16:41] NOTICE: Terminating ...
+[25-Jan-2022 02:16:41] NOTICE: Terminating ...
+[25-Jan-2022 02:16:41] NOTICE: exiting, bye-bye!
+[25-Jan-2022 21:04:19] NOTICE: fpm is running, pid 6891
+[25-Jan-2022 21:04:19] NOTICE: ready to handle connections
+[25-Jan-2022 21:26:18] WARNING: [pool www] child 6895 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
+[25-Jan-2022 21:26:19] WARNING: [pool www] child 6895 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
+[25-Jan-2022 21:26:20] WARNING: [pool www] child 6895 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
+[25-Jan-2022 21:26:21] WARNING: [pool www] child 6895 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
+[25-Jan-2022 21:26:21] WARNING: [pool www] child 6895 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
+[25-Jan-2022 21:26:26] WARNING: [pool www] child 6895 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
+[25-Jan-2022 23:50:19] NOTICE: Terminating ...
+[25-Jan-2022 23:50:19] NOTICE: Terminating ...
+[25-Jan-2022 23:50:19] NOTICE: exiting, bye-bye!
+[25-Jan-2022 23:54:04] NOTICE: fpm is running, pid 29859
+[25-Jan-2022 23:54:04] NOTICE: ready to handle connections
+[25-Jan-2022 23:54:47] NOTICE: Terminating ...
+[25-Jan-2022 23:54:47] NOTICE: Terminating ...
+[25-Jan-2022 23:54:47] NOTICE: exiting, bye-bye!
+[01-Mar-2022 01:17:20] NOTICE: fpm is running, pid 71761
+[01-Mar-2022 01:17:20] NOTICE: ready to handle connections
+[08-Mar-2022 14:24:59] WARNING: [pool www] child 71770 said into stderr: "libpng warning: iCCP: known incorrect sRGB profile"
